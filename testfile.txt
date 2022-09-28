@@ -1,4 +1,1 @@
-Hi, this is SSH Based connection
-This is test file for sample download.
-
-This is another commit form local machine. 
+This is sample file to upload
