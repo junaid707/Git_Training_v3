@@ -1,1 +1,2 @@
 This is the content of sample file 2
+ revert change 2 
