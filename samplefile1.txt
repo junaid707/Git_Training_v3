@@ -1,1 +1,2 @@
 This is the content of sample file 1
+This is to check the revert functionality
