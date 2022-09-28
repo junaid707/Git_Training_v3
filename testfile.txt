@@ -1,1 +1,2 @@
-This is sample file to upload
+This is a sample file to upload
+Editing from the remote server to see the result in local machine. 
