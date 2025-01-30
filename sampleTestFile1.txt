@@ -1,1 +1,4 @@
 this is sample file 1
+
+A branch in Git is a pointer to a commit in a project's history. It allows developers to work on different versions of code simultaneously, without impacting other branches. 
+
