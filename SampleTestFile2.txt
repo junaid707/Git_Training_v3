@@ -1,1 +1,3 @@
 This is sample file 2
+
+Git revert change 2
