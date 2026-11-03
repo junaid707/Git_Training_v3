@@ -1,2 +1,8 @@
 This is sample file 1
+
 Dr. Swati Mohan is an Indian-American aerospace engineer who gained global recognition as the Guidance and Controls Operations Lead for NASA's Mars 2020 Perseverance rover mission. She famously spearheaded the attitude control and landing systems for the rover and was the flight controller who announced the historic touchdown on Mars on February 18, 2021, with the words: "Touchdown confirmed, Perseverance safely on the surface of Mars, ready to begin seeking the signs of past life.
+
+Git revert change 1
+
+This is comparision lecture
+
