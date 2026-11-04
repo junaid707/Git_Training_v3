@@ -7,3 +7,4 @@ Git revert change 1
 This is comparision lecture
 
 This is stash lecture, change in file 1
+this is the stash lecture change for untracked file 1
